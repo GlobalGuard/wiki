@@ -6,7 +6,7 @@ Don't have GlobalGuard yet? Check out our website <a href="https://globalguard.g
 * Protect your server with BungeeCord: <a href="https://globalguard.github.io/wiki/protectserverbungee">Read me</a>
 * Protect your server with Spigot: <a href="https://globalguard.github.io/wiki/protectserverspigot">Read me</a>
 # Questions and Answers
-How is GlobaltGuard free and have cheap prices?
+How is GlobalGuard free and have cheap prices?
 <br>
 **GlobalGuard is very cheap to run monthly and is paid by it's staff.**
 
