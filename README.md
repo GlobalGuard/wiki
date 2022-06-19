@@ -1,7 +1,7 @@
 ## GlobalGuard Docs
 GlobalGuard is a DDoS Protection service. These are the docs so you can get your server up and running.
 <br>
-Don't have GlobalGuard yet? Check out our website <a href="https://globalguard.github.io/wiki/">here</a>
+Don't have GlobalGuard yet? Check out our website <a href="https://globalguard.us/">here</a>
 <br>
 * Protect your server with BungeeCord: <a href="protectserverbungee.html">Read me</a>
 * Protect your server with Spigot: <a href="protectserverspigot.html">Read me</a>
