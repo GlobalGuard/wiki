@@ -9,6 +9,6 @@ Now we have configured your DNS. We aren't finished yet however.
 # Paper/Spigot Configuration
 If you would like IP's to be forwarded to your server you need to download the Proxy Protocol plugin.
 <br>
-You can download the plugin by going to this link <a href="https://github.com/GlobalGuard/RealIP">https://github.com/GlobalGuard/RealIP</a>
+You can download the plugin by going to this link <a href="https://github.com/GlobalGuard/SpigotProxy">https://github.com/GlobalGuard/SpigotProxy</a>
 <br>
 Once it is added make sure to restart your server. However we recommend using BungeeCord/Waterfall.
